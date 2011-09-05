@@ -1,0 +1,11 @@
+Bluebot is a simple template for writing HTML5 webpages. It provides a set of
+CSS styles and web fonts along with some example HTML for writing clean,
+decent-looking webpages. It's designed to be used for standalone pages,
+i.e. single webpages that are complete in and of themselves.
+
+I wrote Bluebot as an easy way to build single webpages without having to write
+everything from scratch every time.
+
+Though the template is mostly monochrome, there is a little bit of blue used for
+the borders and the header, hence the blue. It also makes use of the Droid
+family of fonts provided via Google Web Fonts, hence the bot.
