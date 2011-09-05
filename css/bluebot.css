@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {background: #DDDDDD;}
+
+section {
+    display:block;
+    background:#FFFFFF;
+    border: 2px solid #3399FF;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top:2em;
+    padding-bottom:1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left:10%;
+    margin-right:10%;
+    border-radius:1em;
+    -moz-border-radius:1em;
+    color:#002A19;
+    font-family: 'Droid Serif',Georgia, "Times New Roman", serif;
+    overflow:auto;
+    box-shadow: 3px 3px 5px #999999;
+    -moz-box-shadow: 3px 3px 5px #999999;
+	-webkit-box-shadow: 3px 3px 4px #999999;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+}
+
+h1 {
+    font-family: "Droid Sans";
+    font-size: 2em;
+    text-align: left;
+    margin: 0.5em 0 0.5em -1.5em;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-family: "Droid Sans";
+    font-size: 1.3em;
+    font-weight: normal;
+    margin: 0.5em 0 0.5em -1em;
+}
+
+h3 {
+    font-family: "Droid Sans";
+    font-weight: bold;
+    font-size: 1.25em;
+    font-variant: small-caps;
+    margin: 0.5em 0 0.5em 0;
+}
+
+p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    line-height: 1.3em;
+}
+
+ol {
+    margin: 1em 2em 1em 2em;
+    line-height: 1.3em;
+}
+ul {
+    margin: 1em 2em 1em 2em;
+    line-height: 1.3em;
+}
+
+blockquote {
+    margin: 2em 0 2em 0;
+    padding: 2em;
+    font-style: italic;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    background: #AACCFF;
+    border: 2px solid #999999;
+    border-radius:1em;
+    -moz-border-radius:1em;
+}
+
+pre {
+    margin: 2em 0 2em 0;
+    padding: 1.5em;
+    background: #EEEEEE;
+    border: 2px solid #999999;
+    border-radius:1em;
+    -moz-border-radius:1em;
+    font-family: "Droid Sans Mono";
+    font-size: 0.9em;
+    line-height: 1.2em;
+}
+
+address {
+    font-family: "Droid Serif";
+    line-height: 1.2em;
+    margin-left: 2em;
+}
+
+strong {font-weight: bold;}
+em {font-style: italic;}
+code {font-family: "Droid Sans Mono";}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+    margin-top: 0em;
+}
+
+header h2 {
+    text-align: left;
+    font-family: "Droid Sans Mono";
+    font-size: 1.2em;
+}
+
